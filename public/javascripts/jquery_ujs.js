@@ -1,0 +1,1 @@
+../../../ruby-jquery-rails/vendor/assets/javascripts/jquery_ujs.js
